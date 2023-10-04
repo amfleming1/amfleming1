@@ -1,4 +1,4 @@
-👨🏾‍💻 Anya Fleming
+👩🏽‍💻 Anya Fleming
 <!--
 
 - 🔭 I’m currently working on Can-of-Books
