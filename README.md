@@ -1,5 +1,4 @@
 <h1 align="center">👩🏽‍💻 Anya Fleming</h1>
----
 
 - 🔭 I’m currently working on Can-of-Books
 - 🌱 I’m currently learning more about Auth0 and React
